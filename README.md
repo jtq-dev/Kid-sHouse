@@ -1,36 +1,39 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+# Kid’s House — School Website (Douala, Cameroon)
 
-## Getting Started
+Modern, mobile-first website for **Kid’s House** (Kindergarten & Primary School) in **Douala, Cameroon**.  
+Built for a fast, beautiful parent experience with clear programs, admissions, events, gallery, and contact flows.
 
-First, run the development server:
+## ✨ Features
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
+- **Modern UI/UX** (responsive, accessible, parent-friendly)
+- Sections: **Programs**, **Admissions**, **Fees**, **Events**, **Gallery**, **FAQ**, **Contact**
+- **EN/FR toggle** (Cameroon-friendly bilingual support)
+- Strong CTAs: **WhatsApp**, **Call**, **Book a Visit**
+- SEO-ready structure (clean layout and clear navigation)
+- Optimized for performance and readability
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+## 🧱 Tech Stack
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+- **Next.js** (App Router)
+- **TypeScript**
+- **Tailwind CSS**
+- **Framer Motion** (animations)
+- **lucide-react** (icons)
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
+## 🔗 Live Demo
 
-## Learn More
+- Website: **https://YOURDOMAIN.com**  
+- Staging (optional): **https://YOURPROJECT.vercel.app**
 
-To learn more about Next.js, take a look at the following resources:
+## 📸 Screenshots
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+> Add screenshots in `/public/screenshots/` and update the links below.
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
+- Home  
+- Programs  
+- Admissions  
+- Contact
 
-## Deploy on Vercel
-
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+Example:
+```md
+![Home](public/screenshots/home.png)
